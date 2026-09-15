@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+  <nombre>Lucas Ezequiel</nombre>
+  <apellidos>Andrés Griego</apellidos>
+  <emails>
+    <personal>admin@sturmprojekt.es</personal>  
+    <trabajo>lucas.and95@gmail.com</trabajo>  
+  </emails>
+</persona>

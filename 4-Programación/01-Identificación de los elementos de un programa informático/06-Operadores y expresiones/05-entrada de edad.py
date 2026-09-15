@@ -1,0 +1,8 @@
+print("Te calculo el doble de la edad")
+
+edad = input("Ihntroduce tu edad:")
+print("Ok, tu edad es de",edad,"años")
+
+doble = edad * 2
+
+print("Ok, el doble de tu edad es",edad,"años")

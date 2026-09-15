@@ -1,0 +1,22 @@
+{
+	"datos personales":{
+  	"nombre":"Lucas Ezequiel",
+    "apellidos":"Andrés Griego"
+  },
+  "experiencia laboral":{
+  	"experiencia":"descripcion",
+    "experiencia":"descripcion",
+    "experiencia":"descripcion",
+    "experiencia":"descripcion",
+    "experiencia":"descripcion"
+  },
+  "formación":{
+  	"formacion":"descripcion",
+    "formacion":"descripcion",
+    "formacion":"descripcion",
+    "formacion":"descripcion",
+    "formacion":"descripcion",
+    "formacion":"descripcion"
+  },
+  "hobbies":["hobbie 1","hobbie 2","hobbie 3"]
+}

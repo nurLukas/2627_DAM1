@@ -1,0 +1,141 @@
+{
+  "datos_personales": {
+    "nombre": "Lucas Andrés",
+    "apellidos": "Griego",
+    "nombre_profesional": "Lucas Andrés Griego",
+    "marca_profesional": "STURMPROJEKT",
+    "ubicacion": {
+      "pais": "España"
+    },
+    "contacto": {
+      "telefono": "694211111",
+      "correo_electronico": "lucas.and95@gmail.com",
+      "github": "https://github.com/nurLukas",
+      "linkedin": "www.linkedin.com/in/lucas-andrés-griego-794a9b13a",
+      "web": "www.sturmprojekt.es"
+    }
+  },
+
+  "perfil_profesional": {
+    "profesion_principal": "Estudiante de Desarrollo de Aplicaciones Multiplataforma y desarrollador web",
+    "especializacion": [
+      "Desarrollo web",
+      "Desarrollo frontend",
+      "Desarrollo backend",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "Bases de datos PostgreSQL",
+      "Administración de servidores",
+      "Docker",
+      "Docker Compose",
+      "Cloudflare",
+      "DNS",
+      "SSL/TLS",
+      "Seguridad web",
+      "Git y GitHub",
+      "SEO técnico",
+      "Analítica web",
+      "Redes privadas con WireGuard"
+    ],
+    "marca": "STURMPROJEKT",
+    "descripcion": "Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia práctica en desarrollo web, despliegue, administración de servidores y gestión de proyectos tecnológicos. Fundador de STURMPROJEKT, proyecto orientado al desarrollo y mantenimiento de páginas web para negocios locales, incluyendo infraestructura, dominios, DNS, seguridad y soporte técnico."
+  },
+
+  "experiencia_laboral": [
+    {
+      "periodo": "2025-actualidad",
+      "actividad": "Fundador y Responsable Técnico de STURMPROJEKT",
+      "descripcion": "Desarrollo, maquetación y despliegue de aplicaciones y páginas web corporativas para negocios locales."
+    },
+    {
+      "periodo": "2025-actualidad",
+      "actividad": "Administración de servidores e infraestructura web",
+      "descripcion": "Administración y mantenimiento de servidores Ubuntu Server, despliegue de servicios mediante Docker y Docker Compose y gestión de infraestructura web."
+    },
+    {
+      "periodo": "2025-actualidad",
+      "actividad": "Gestión de dominios, DNS y seguridad",
+      "descripcion": "Administración de dominios, configuración y enrutamiento DNS, gestión de certificados SSL/TLS y protección de servicios mediante Cloudflare."
+    },
+    {
+      "periodo": "2025-actualidad",
+      "actividad": "SEO técnico y analítica web",
+      "descripcion": "Implementación de estrategias de posicionamiento SEO técnico, optimización del rendimiento y velocidad de carga y análisis mediante herramientas de analítica web."
+    },
+    {
+      "periodo": "2023-2026",
+      "actividad": "Operador de logística en Family Cash",
+      "descripcion": "Preparación de pedidos mediante PDA, operaciones logísticas y gestión de cámaras frigoríficas."
+    },
+    {
+      "periodo": "2023-2024",
+      "actividad": "Operador de producción en Ice Cream Factory Comaker",
+      "descripcion": "Producción de mezclas y realización de controles fisicoquímicos de calidad a gran escala."
+    },
+    {
+      "periodo": "2021-2023",
+      "actividad": "Logística y almacén",
+      "descripcion": "Experiencia en Natural Fruit y SEUR realizando clasificación automatizada, picking, preparación de mercancías y operaciones de distribución."
+    },
+    {
+      "actividad": "Producción y asesoramiento técnico industrial",
+      "empresa": "Alpha Química S.R.L.",
+      "descripcion": "Trabajo como operario de producción, asesor técnico y responsable de gestión de maquinaria industrial relacionada con el sector lácteo."
+    }
+  ],
+
+  "formacion_academica": [
+    {
+      "periodo": "2024-actualidad",
+      "titulacion": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)",
+      "centro": "Tame Centro de Formación",
+      "pais": "España"
+    },
+    {
+      "periodo": "Finalizado en 2022",
+      "titulacion": "Perito Clasificador de Granos y Oleaginosas",
+      "centro": "Escuela de Recibidores de Granos Rosario",
+      "pais": "Argentina",
+      "observaciones": "Matriculado"
+    },
+    {
+      "periodo": "Finalizado en 2014",
+      "titulacion": "Bachiller Técnico Superior",
+      "centro": "Escuela Superior Integral de Lechería La Santísima Trinidad",
+      "pais": "Argentina"
+    }
+  ],
+
+  "competencias_tecnicas": {
+    "frontend_backend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript ES6+",
+      "Node.js",
+      "Express.js"
+    ],
+    "bases_de_datos_seguridad": [
+      "PostgreSQL",
+      "JWT",
+      "Bcrypt",
+      "Autenticación",
+      "Encriptación"
+    ],
+    "infraestructura_devops": [
+      "Ubuntu Server",
+      "Docker",
+      "Docker Compose",
+      "Cloudflare",
+      "DNS",
+      "SSL/TLS"
+    ],
+    "herramientas_redes": [
+      "Git",
+      "GitHub",
+      "Google Analytics",
+      "WireGuard",
+      "Redes privadas"
+    ]
+  }
+}
