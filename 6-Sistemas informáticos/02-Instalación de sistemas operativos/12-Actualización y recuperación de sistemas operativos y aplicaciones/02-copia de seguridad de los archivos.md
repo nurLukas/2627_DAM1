@@ -1,5 +1,6 @@
-# 30/09/2026 PENDIENTE DE HACER
 
+
+Creo una carpeta llamada "copias"
 sudo mkdir /home/lucas95/copias
 
 Supongamos que tengo un proyecto en /var/www/html/sturmprojekt

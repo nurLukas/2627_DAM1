@@ -1,11 +1,10 @@
 1.-sudo mysql -u root -p
 -- crea usuario nuevo con contraseña
--- creamos el nombre de usuario que queramos
+-- creamos el nombre de usuario que querramos
 CREATE USER 
-'[tunombredeusuario]'@'[tuservidor]' 
-IDENTIFIED  BY '[tucontraseña]';
+'[tunombredeusuario]'@'[tuservidor]' IDENTIFIED BY '[tucontraseña]';
 
-CREATE USER 'josevicente2627'@'localhost' IDENTIFIED BY 'CEAC123$';
+CREATE USER 'nurlucas'@'localhost' IDENTIFIED BY 'tame123$';
 @ = at (en)
 
 -- permite acceso a ese usuario

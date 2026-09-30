@@ -14,10 +14,17 @@
   },
   "formacion":"Informático",
   "experiencia":[
-	"una",
-	"dos",
-	"tres",
-	"cuatro"
+    {
+		"empresa":"X",
+		"fecha_de_inicio":"YYYY-MM-DD",
+		"fecha_de_final":"YYYY-MM-DD",
+		"cargo":"X",
+		"responsabilidades":"X",
+		"descripción":"X",
+    },
+    "dos",
+    "tres",
+    "cuatro"
   ],
   "idiomas":"Español",
   "conduccion":"B1",

@@ -2,9 +2,9 @@ SHOW TABLES;
 
 CREATE TABLE pedidos(
 	fecha DATE,
-  numerodepedido INT,
-  cliente_id INT,
-  producto_id INT
+	numerodepedido INT,
+	cliente_id INT,
+	producto_id INT
 );
 
 ALTER TABLE pedidos

@@ -1,12 +1,12 @@
 {
-  "nombre": "José Vicente Carratalá",
-  "marca": "JOCARSA",
-  "nacimiento": "1978-04-14",
+  "nombre": "Lucas Andrés Griego",
+  "marca": "STURMPROJEKT",
+  "nacimiento": "1995-10-06",
   "ciudad": "Valencia",
   "pais": "España",
-  "profesion": "Profesor y desarrollador",
+  "profesion": "Desarrollador informatico",
   "especialidad": "Programación e Inteligencia Artificial",
-  "experiencia_desde": 2000,
+  "experiencia_desde": 2025,
   "tecnologias": [
     "Python",
     "PHP",
@@ -16,5 +16,5 @@
     "Linux",
     "IA"
   ],
-  "web": "https://jocarsa.com"
+  "web": "https://sturmprojekt.es"
 }

@@ -1,4 +1,4 @@
-rea bases de datos definiendo su estructura y las características de sus elementos según el modelo relacional.
+Crea bases de datos definiendo su estructura y las características de sus elementos según el modelo relacional.
 
 Criterios de evaluación
 a) Se ha analizado el formato de almacenamiento de la información.

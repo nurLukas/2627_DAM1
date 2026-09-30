@@ -2,7 +2,7 @@ SHOW TABLES;
 
 CREATE TABLE productos(
 	nombre VARCHAR(100),
-  precio DECIMAL(8,2)
+	precio DECIMAL(8,2)
 );
 
 ALTER TABLE productos

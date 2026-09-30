@@ -1,4 +1,4 @@
-ALTER USER 'josevicentetame'@'localhost' 
+ALTER USER 'nurlucas'@'localhost' 
 REQUIRE NONE 
 WITH MAX_QUERIES_PER_HOUR 0 
 MAX_CONNECTIONS_PER_HOUR 0 

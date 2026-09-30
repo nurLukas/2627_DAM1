@@ -1,0 +1,16 @@
+{
+	"datos_personales":{
+		"nombre":"Lucas Ezequiel",
+		"apeliidos":"Andrés Griego",
+		"email":{
+			"personal":"lucas.and95@gmail.com",
+			"trabajo":"admin@sturmprojekt.es"
+		}
+		"redes sociales":"facebook"
+	},
+	"formacion":"Informático",
+	"experiencia":"Poca",
+	"idiomas":"Español",
+	"conduccion":"B1",
+	"aficiones":"Ganar pasta"	
+}

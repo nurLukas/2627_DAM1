@@ -5,7 +5,7 @@ archivo_xsd = etree.parse("plantilla validacion.xsd")
 esquema = etree.XMLSchema(archivo_xsd)
 
 # Cargar el XML
-archivo_xml = etree.parse("001-plantilla cliente.xml")
+archivo_xml = etree.parse("01-plantilla cliente.xml")
 
 # Validar
 if esquema.validate(archivo_xml):

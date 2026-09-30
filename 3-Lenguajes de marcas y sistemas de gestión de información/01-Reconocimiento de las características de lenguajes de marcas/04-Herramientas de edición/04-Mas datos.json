@@ -1,0 +1,12 @@
+{
+	"datos_personales":{
+		"nombre":"Lucas Ezequiel"
+		"apeliidos":"Andrés Griego",
+		"email": "lucas.and95@gmail.com"		
+	},
+	"formacion":"Informático",
+	"experiencia":"Poca",
+	"idiomas":"Español",
+	"conduccion":"B1",
+	"aficiones":"Ganar pasta"	
+}

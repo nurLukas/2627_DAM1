@@ -11,6 +11,6 @@
 10.-Seleccionar los registros de clientes: SELECT * FROM clientes; 
 
 11.-Insertar exactamente el mismo cliente:
-INSERT INTO clientes VALUES('Jose Vicente','Carratalá Sanchis','info@jocarsa.com');
+INSERT INTO clientes VALUES('Lucas Ezequiel','Andrés Griego','admin@jsturmprojekt.es');
 
 12.-Listo de nuevos

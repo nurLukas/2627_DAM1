@@ -1,6 +1,6 @@
 INSERT INTO clientes VALUES(
 	'Jaime',
-  'Martinez',
-  "jaime@martinez.com",
-  NULL
+	'Martinez',
+	"jaime@martinez.com",
+	NULL
 );

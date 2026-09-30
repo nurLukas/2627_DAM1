@@ -1,5 +1,5 @@
 print("-"*30)
-print("SuperAgenda v0.2 por Jose Vicente Carratala")
+print("SuperAgenda v0.2 por Lucas Andrés Griego")
 print("-"*30)
 while True:
   print("-"*30)

@@ -1,4 +1,4 @@
-JSON:
+# JSON:
 
 Conjunto de parejas de clave - valor
 clave:valor,
@@ -15,14 +15,18 @@ clave:valor,
 clave:valor,
 clave:
 	clave:valor,
-  clave:valor,
-  clave:
-  	clave:valor,
-    clave:valor,
-    clave:valor,
-    clave:valor,
+	clave:valor,
+	clave:
+		clave:valor,
+		clave:valor,
+		clave:valor,
+		clave:valor,
   ,
   clave:valor,
 clave:valor,
 clave:valor,
 ...
+
+
+Las llaves indican bloques de clave+valor
+Los corchetes indican listas de elementos

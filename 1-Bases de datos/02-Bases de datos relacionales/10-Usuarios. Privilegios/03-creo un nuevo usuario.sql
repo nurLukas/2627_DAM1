@@ -1,1 +1,1 @@
-CREATE USER 'josevicentetame'@'localhost' IDENTIFIED BY 'TAME123$'
+CREATE USER 'nurlucas'@'localhost' IDENTIFIED BY 'tame123$';
