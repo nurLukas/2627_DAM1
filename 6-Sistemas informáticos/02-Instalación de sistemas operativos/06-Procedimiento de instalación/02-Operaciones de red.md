@@ -1,4 +1,3 @@
-# 29/09/2026 TENGO ESTO PENDIENTE EN MI MAQUINA VIRTUAL
 
 1.- Cambio la configuracion de red de NAT a adaptador puente
 2.- Reinicio -> sudo reboot

@@ -23,9 +23,9 @@ nano clientes.txt
 Control + O = guardar
 Control + X = salir
 
-cp = copy = cp [origen] [destino]
+cp = copy = cp [origen] [destino]  ej: cp clientes.txt ../prueba2    ---------> comando de copiar
 
-rm = remove
+rm = remove    ej: rm clientes.txt
 
 mv = mover = mv [origen] [destino]
 

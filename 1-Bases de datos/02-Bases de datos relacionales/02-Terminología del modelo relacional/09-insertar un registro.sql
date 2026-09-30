@@ -1,5 +1,5 @@
 INSERT INTO clientes VALUES(
 	"Lucas Ezequiel",
-  "Andrés Griego",
-  "admin@jsturmprojekt.es"
+	"Andrés Griego",
+	"admin@jsturmprojekt.es"
 );

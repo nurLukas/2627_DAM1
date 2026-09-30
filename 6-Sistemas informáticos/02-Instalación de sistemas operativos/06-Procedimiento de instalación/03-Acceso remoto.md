@@ -1,4 +1,3 @@
-# 26/09/2026 ESTO ESTA PENDIENTE AUN EN MI UBUNTU DESKTOP
 
 # Instalamos openssh-server
 

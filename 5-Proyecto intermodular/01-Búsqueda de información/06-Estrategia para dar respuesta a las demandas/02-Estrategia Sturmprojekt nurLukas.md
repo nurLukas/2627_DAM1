@@ -1,0 +1,1 @@
+No soy Open IA, debo suplir los nichos que esta empresa no cubre, por ejemplo
