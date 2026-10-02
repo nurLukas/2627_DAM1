@@ -4,7 +4,7 @@ class Gato():
     self.color = ""
     
 Micifu = Gato()
-print(micifu)
+print(Micifu)
 
 Garfield = Gato()
-print(garfield)
+print(Garfield)
