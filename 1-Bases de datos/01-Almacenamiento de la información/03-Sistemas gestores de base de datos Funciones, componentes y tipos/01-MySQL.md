@@ -1,11 +1,12 @@
-MySQL es un sistema gestor de bases de datos
+# MySQL 
+Es un sistema gestor de bases de datos
 
 Requiere instalación 
-Se puede instalar también como MariaDB
+Se puede instalar también como * MariaDB
 
-Está para Windows, para Mac, Linux 
-Windows: XAMPP https://www.apachefriends.org/es/index.html 
-Mac: MAMP https://www.mamp.info/en/windows/
+Está para Windows, para Mac, Linux:
+- Windows: XAMPP https://www.apachefriends.org/es/index.html 
+- Mac: MAMP https://www.mamp.info/en/windows/
 
 Si estáis en Linux, ya hablaremos
 

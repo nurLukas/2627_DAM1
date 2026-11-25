@@ -9,4 +9,4 @@
   -telefono
 '''
 print("Programa agenda")
-print("v0.3 Jose Vicente Carratala
+print("v0.3 Jose Vicente Carratala")

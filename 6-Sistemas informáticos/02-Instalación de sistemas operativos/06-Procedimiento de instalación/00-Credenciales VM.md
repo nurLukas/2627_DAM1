@@ -7,6 +7,6 @@
 
 # Credenciales VM Ubuntu Server 24.04 LTS
 
-* Usuario:
-* hostname:
-* contraseña:
+* Usuario:nurlukas
+* hostname:tame2627
+* contraseña:tame123

@@ -1,0 +1,15 @@
+CREATE USER 'crud'@'localhost' IDENTIFIED BY 'tame123$';
+
+GRANT USAGE ON *.* TO 'josevicente2627'@'localhost';
+
+ALTER USER 'josevicente2627'@'localhost' 
+REQUIRE NONE 
+WITH MAX_QUERIES_PER_HOUR 0 
+MAX_CONNECTIONS_PER_HOUR 0 
+MAX_UPDATES_PER_HOUR 0 
+MAX_USER_CONNECTIONS 0;
+
+GRANT ALL PRIVILEGES ON empresadam2627.* 
+TO 'josevicente2627'@'localhost';
+
+FLUSH PRIVILEGES;

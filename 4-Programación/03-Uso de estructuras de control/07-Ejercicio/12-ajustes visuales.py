@@ -5,8 +5,7 @@ clientes = []
 while True:
   muestraMenu()
   opcion = input("Introduce tu opción:")
-  print("-"*30)
-  if opcion == "1":
+    if opcion == "1":
     listarRegistros(clientes)
   elif opcion == "2":
     nuevocliente = input("Introduce un nuevo cliente: ")
@@ -15,4 +14,3 @@ while True:
     actualizarRegistro(clientes,registro)
   elif opcion == "4":
     eliminarRegistro(clientes,registro)
-  print("-"*30)
